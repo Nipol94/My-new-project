@@ -1,4 +1,4 @@
-# Project RR
+# projekt RR with aI
 
 Final project for the Building AI course
 
